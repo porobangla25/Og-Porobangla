@@ -1,3 +1,10 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-dashboard",
+      "description": "Abstract image representing artificial intelligence and learning.",
+      "imageUrl": "https://images.unsplash.com/photo-1736430043488-0c369959a5c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxBSSUyMGxlYXJuaW5nfGVufDB8fHx8MTc2NzExNTE2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "AI learning"
+    }
+  ]
 }
